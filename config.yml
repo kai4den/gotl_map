@@ -1,4 +1,4 @@
-title: Geolonia PWAマップ
-description: Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる「Geolonia PWAマップ」
-hosting_url: https://naogify.github.io/pwamap_v2/
-data_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS-uV5u8h18b68MsYdsSiEBbVrvkprM4srn_zUhY0drwvS37KbggOQPGn36r3fZEpfNod9qcbMHOrec/pub?gid=1957425126&single=true&output=csv
+title: Game of the Lotus 遠野幻蓮譚 チェックインスポットマップ
+description: NFT「Game of the Lotus 遠野幻蓮譚」でチェックインできるスポットをまとめたマップです。位置情報から最寄りのスポットを探すこともできます。
+hosting_url: https://kai4den.github.io/gotl_map/
+data_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRxVAwjtTM6xr4A5sC0lFLZo0SMF4da_0Fa_c-dXsYU_GOZmVTr1Hh6wUFhD2SdcmEG771paY4d9Jii/pub?output=csv
